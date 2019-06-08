@@ -6,7 +6,7 @@ This repository contains documents which introduce some basic concepts for spect
 
 ## Content
 
-- [.wav file](https://nbviewer.jupyter.org/github/yeh8211TK/DSP/blob/master/WavFile_manipulation.ipynb)
+- [.wav file](https://nbviewer.jupyter.org/github/yeh8211TK/DSP/blob/master/WavFile.ipynb)
 
 - Noise (To do list)
 
