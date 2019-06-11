@@ -8,7 +8,7 @@ This repository contains documents which introduce some basic concepts for spect
 
 - [.wav file](https://nbviewer.jupyter.org/github/yeh8211TK/DSP/blob/master/WavFile.ipynb)
 
-- Noise (To do list)
+- [Noise](https://nbviewer.jupyter.org/github/yeh8211TK/DSP/blob/master/Noise.ipynb)
 
 - [Sampling](https://nbviewer.jupyter.org/github/yeh8211TK/DSP/blob/master/Sampling.ipynb)
 
