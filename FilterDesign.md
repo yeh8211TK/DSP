@@ -36,7 +36,7 @@
 
 - categories: 
 
-  - Butterworth Filters
+  - Butterworth Filter
 
   - Chebyshev type 1 filter
 
