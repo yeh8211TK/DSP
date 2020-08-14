@@ -16,8 +16,8 @@ This repository contains documents that introduce some basic concepts for spectr
 
 - [Spectral Analysis](https://nbviewer.jupyter.org/github/yeh8211TK/DSP/blob/master/Spectral%20analysis.ipynb)
 
-- FIR and IIR Filters (To do list)
+- [FIR and IIR Filters](https://github.com/yeh8211TK/DSP/blob/master/FIR%26IIR.md) (To do list)
 
-- Filter Design and Window Functions (To do list)
+- [Filter Design and Window Functions](https://github.com/yeh8211TK/DSP/blob/master/FilterDesign.md) (To do list)
 
 - [Time-Frequency Analysis](https://nbviewer.jupyter.org/github/yeh8211TK/DSP/blob/master/Time-Frequency%20Analysis.ipynb) (To be continued...)
