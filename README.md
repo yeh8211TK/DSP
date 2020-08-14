@@ -2,7 +2,7 @@
 
 Under construction...
 
-This repository contains documents which introduce some basic concepts for spectral analysis.
+This repository contains documents that introduce some basic concepts for spectral analysis.
 
 ## Content
 
